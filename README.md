@@ -6,7 +6,7 @@
 
 ## 📸 Screenshot
 
-![Habit Tracker Screenshot](screenshot.png)
+![Habit Tracker Screenshot](screenshot_.png)
 
 ## ✨ Features
 
